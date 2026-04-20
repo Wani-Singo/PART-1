@@ -5,3 +5,6 @@ the website goals and objectivesa are to provide extensive information and conte
 the website interface was updated for amch better appeal. 
 as much as the instagram and tiktok are gaining traffic, the goalis to move some of that traffic to the website.
 The key feauture and functionality are the five webpages, home page, explore, feed, about, contact. they have functioning links and visible imagery.
+the timeline was 3 weeks for both the reseach and the website design.
+Part 1 of the project is the research of my desired company/organisation and their current website. 
+
